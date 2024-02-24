@@ -1,0 +1,14 @@
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\bin\Debug\net8.0\qweqweqwew.exe
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\bin\Debug\net8.0\qweqweqwew.deps.json
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\bin\Debug\net8.0\qweqweqwew.runtimeconfig.json
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\bin\Debug\net8.0\qweqweqwew.dll
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\bin\Debug\net8.0\qweqweqwew.pdb
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\obj\Debug\net8.0\qweqweqwew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\obj\Debug\net8.0\qweqweqwew.AssemblyInfoInputs.cache
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\obj\Debug\net8.0\qweqweqwew.AssemblyInfo.cs
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\obj\Debug\net8.0\qweqweqwew.csproj.CoreCompileInputs.cache
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\obj\Debug\net8.0\qweqweqwew.dll
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\obj\Debug\net8.0\refint\qweqweqwew.dll
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\obj\Debug\net8.0\qweqweqwew.pdb
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\obj\Debug\net8.0\qweqweqwew.genruntimeconfig.cache
+C:\Users\fortn\source\repos\qweqweqwew\qweqweqwew\obj\Debug\net8.0\ref\qweqweqwew.dll
