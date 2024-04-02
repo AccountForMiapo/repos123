@@ -1,21 +1,4 @@
-# repos123
-hello
-main.cpp
 
-
-#include "fraction.h"
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-    Fraction frac = Fraction(14, 6);
-    Fraction frac2 = Fraction(2, 1);
-    Fraction Fractions[] = 
-    {
-        {frac - frac2},
-        {frac + frac2},
         {frac * frac2},
         {frac / frac2},
     };
